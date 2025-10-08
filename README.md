@@ -286,7 +286,7 @@ Mon objectif pour 2025 est de **démocratiser les bonnes pratiques architectural
 - Anti-Corruption Layer entre contextes
 
 **Stack technique**
-- Frontend : Angular + NgRx (state management)
+- Frontend : Angular + Signal Store (state management)
 - Backend : Spring Boot + Kotlin + PostgreSQL
 - Mobile : Flutter + BLoC Pattern
 - Communication : REST + RabbitMQ pour événements asynchrones
@@ -308,7 +308,7 @@ Mon objectif pour 2025 est de **démocratiser les bonnes pratiques architectural
 **Stack technique**
 - Flutter + Dart
 - BLoC Pattern pour state management
-- Dio pour HTTP, Hive pour stockage local
+- Dio pour HTTP, Isar pour stockage local
 - Mockito pour tests
 
 #### 📝 Projet 4 : Blog Technique & Ressources
