@@ -86,7 +86,7 @@ Je crois fermement que **le code est un moyen, pas une fin**. L'objectif ultime 
 
 | Catégorie | Technologies |
 |-----------|-------------|
-| **Frontend** | Angular 18+ • React 18+ • Next.js 14+ • TypeScript 5+ • TailwindCSS • RxJS • Redux |
+| **Frontend** | Angular 18+ • TypeScript 5+ • TailwindCSS • NgRx SignalStore |
 | **Backend** | NestJS 10+ • Spring Boot 3+ • Ktor 2+ |
 | **Mobile** | Flutter 3.16+ • Dart 3+ • BLoC Pattern • GetX |
 | **Langages** | TypeScript • JavaScript • Kotlin • Java • Dart |
@@ -101,8 +101,6 @@ Je crois fermement que **le code est un moyen, pas une fin**. L'objectif ultime 
 #### Technologies Détaillées
 
 ![Angular](https://img.shields.io/badge/Angular_18+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React_18+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript_5+-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -152,8 +150,8 @@ Je suis actuellement dans une **phase intensive d'apprentissage** des architectu
 - Event Sourcing et CQRS pour les systèmes complexes
 
 **Appliquer sur toute la stack**
-- **Backend** : Implémentation complète en NestJS, Spring Boot et Ktor
-- **Frontend** : Architecture en couches dans Angular et React avec séparation UI/Business Logic
+- **Backend** : Implémentation complète en Spring Boot et Ktor
+- **Frontend** : Architecture en couches dans Angular avec séparation UI/Business Logic
 - **Mobile** : Clean Architecture dans Flutter avec BLoC Pattern
 
 #### 📖 Ressources & Méthodologie
@@ -196,7 +194,7 @@ interface CurrentFocus {
       "TDD/BDD basics"
     ],
     stack: {
-      frontend: ["Angular + TypeScript", "React + TypeScript", "Next.js"],
+      frontend: ["Angular + TypeScript"],
       backend: ["NestJS + TypeScript", "Spring Boot + Java/Kotlin", "Ktor + Kotlin"],
       mobile: ["Flutter + Dart"],
       databases: ["PostgreSQL", "MongoDB", "Redis"]
