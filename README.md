@@ -23,7 +23,7 @@ et Domain-Driven Design, que j'applique sur des projets concrets.
 **Base de données** — PostgreSQL · MongoDB · Redis  
 **Frontend** — Angular · TypeScript  
 **Mobile** — Flutter · Dart  
-**Outils** — Docker · Git · GitHub· Gitlab · Windows · Linux · macOS
+**Outils** — Docker · Git · GitHub · Gitlab · Windows · Linux · macOS
 
 ---
 
