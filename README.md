@@ -12,9 +12,6 @@ des interfaces web avec Angular et des applications mobiles avec Flutter.
 Je porte une attention particulière à la conception — architecture,
 séparation des responsabilités, code maintenable sur la durée.
 
-En ce moment j'approfondis Clean Architecture, Architecture Hexagonale
-et Domain-Driven Design, que j'applique sur des projets concrets.
-
 ---
 
 ## Ce que j'utilise au quotidien
@@ -24,14 +21,6 @@ et Domain-Driven Design, que j'applique sur des projets concrets.
 **Frontend** — Angular · TypeScript  
 **Mobile** — Flutter · Dart  
 **Outils** — Docker · Git · GitHub · Gitlab · Windows · Linux · macOS
-
----
-
-## Ce que j'apprends
-
-- Clean Architecture & Architecture Hexagonale
-- Domain-Driven Design (Tactical & Strategic patterns)
-- CQRS et Event-Driven Architecture
 
 ---
 
